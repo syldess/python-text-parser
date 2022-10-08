@@ -1,0 +1,2 @@
+{author}, {title}
+This is the author's name, This is the title
